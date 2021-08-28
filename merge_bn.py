@@ -5,7 +5,7 @@ import logging
 
 import numpy as np
 try:
-    caffe_root = '/home/yaochuanqi/work/caffe/'
+    caffe_root = '/workspace/caffe/'
     sys.path.insert(0, caffe_root + 'python')
     import caffe
 except ImportError:
