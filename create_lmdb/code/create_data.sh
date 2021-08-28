@@ -6,7 +6,7 @@ cd $root_dir
 
 redo=1
 
-data_root_dir=/workspace/MobileNet-SSD/create_lmdb/Dataset/  # Modify the path with your folder having Images and Labels directories.
+data_root_dir=/workspace/MobileNet_SSD/create_lmdb/Dataset/  # Modify the path with your folder having Images and Labels directories.
 
 dataset_name="Main"  # This will be directory holding train and test LMDBs
 
