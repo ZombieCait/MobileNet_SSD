@@ -1,0 +1,16 @@
+Images/34.jpg Labels/34.xml
+Images/38.jpg Labels/38.xml
+Images/53.jpg Labels/53.xml
+Images/17.jpg Labels/17.xml
+Images/3.jpg Labels/3.xml
+Images/72.jpg Labels/72.xml
+Images/68.jpg Labels/68.xml
+Images/65.jpg Labels/65.xml
+Images/35.jpg Labels/35.xml
+Images/67.jpg Labels/67.xml
+Images/9.jpg Labels/9.xml
+Images/25.jpg Labels/25.xml
+Images/2.jpg Labels/2.xml
+Images/63.jpg Labels/63.xml
+Images/60.jpg Labels/60.xml
+Images/6.jpg Labels/6.xml
